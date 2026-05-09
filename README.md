@@ -157,14 +157,8 @@ Durante o desenvolvimento deste projeto, foram praticadas habilidades como:
 
 ## Dashboard Principal
 
-> Adicione aqui uma imagem do dashboard.
+<img width="1228" height="686" alt="ProjetoRH" src="https://github.com/user-attachments/assets/0c85495d-3acf-4e93-9fb3-872b4c034be2" />
 
-Exemplo:
-
-```markdown
-<img width="1228" height="686" alt="ProjetoRH" src="https://github.com/user-attachments/assets/9a7d2d0a-e382-48cf-a74d-16a8b522051b" />
-
-```
 
 ---
 
