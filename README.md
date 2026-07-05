@@ -1,4 +1,4 @@
-# Dashboard de RH — Power BI
+# Dashboard de RH — 
 
 ## 📌 Sobre o Projeto
 
@@ -23,7 +23,6 @@ O dashboard apresenta métricas importantes relacionadas aos colaboradores, perm
 * Power BI
 * Power Query
 * Excel
-* DAX
 * Figma (planejamento visual)
 
 ---
